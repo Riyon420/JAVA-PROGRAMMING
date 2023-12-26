@@ -17,6 +17,5 @@ public class recursion {
             int s = r.cal(5);
             System.out.println(s);
         }
-
     }
 }
